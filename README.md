@@ -11,3 +11,7 @@ Smart Attendance does the job for attendance verification of college, school, co
 1.it will help to monitor the head count.<br/>
 2.it will monitor the people those who just leave the seminar when they dont like at a point of time so it will help the members to make proper arrangements.
 
+# Team members
+Akash krishna koley
+Arpan Bhakta
+soumya debnath
